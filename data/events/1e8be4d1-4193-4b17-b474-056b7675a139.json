@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "b3355c33-dc45-4343-8823-19b0313246f0": {
+      "label": "AV File 4",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/098/374/original/open-uri20201008-791-8pghju.mov?1602175259",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-23T21:10:58.171Z",
+  "created_by": "lwjameson",
+  "item_type": "Video",
+  "label": "Imported Event 4",
+  "updated_at": "2024-10-23T21:10:58.171Z",
+  "updated_by": "lwjameson"
+}
